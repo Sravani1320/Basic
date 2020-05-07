@@ -1,2 +1,2 @@
 # Basic
-Learning basic
+Learning basic git commands and practice them
